@@ -60,7 +60,7 @@ export default function Bloghome2() {
               </div>
               <div className="card-footer text-muted">
                 โพสต์เมื่อวันที่ 8 มกราคม 2568 โดย
-                <a href="#">อรรถพล สุวรรณเจริญ</a>
+                <a href="#">อรรถพล สุวรรณเจริญ และ จักรพันธ์ หงษ์พงษ์</a>
               </div>
             </div>
             {/* Blog Post */}
@@ -95,7 +95,7 @@ export default function Bloghome2() {
               </div>
               <div className="card-footer text-muted">
                 โพสต์เมื่อวันที่ 8 มกราคม 2568 โดย
-                <a href="#">อรรถพล สุวรรณเจริญ</a>
+                <a href="#">อรรถพล สุวรรณเจริญ และ จักรพันธ์ หงษ์พงษ์</a>
               </div>
             </div>
             {/* Blog Post */}
@@ -130,7 +130,7 @@ export default function Bloghome2() {
               </div>
               <div className="card-footer text-muted">
                 โพสต์เมื่อวันที่ 8 มกราคม 2568 โดย
-                <a href="#">อรรถพล สุวรรณเจริญ</a>
+                <a href="#">อรรถพล สุวรรณเจริญ และ จักรพันธ์ หงษ์พงษ์</a>
               </div>
             </div>
             <div className="card mb-4">
@@ -165,7 +165,7 @@ export default function Bloghome2() {
               </div>
               <div className="card-footer text-muted">
                 โพสต์เมื่อวันที่ 8 มกราคม 2568 โดย
-                <a href="#">อรรถพล สุวรรณเจริญ</a>
+                <a href="#">อรรถพล สุวรรณเจริญ และ จักรพันธ์ หงษ์พงษ์</a>
               </div>
             </div>
             {/* Blog Post */}
@@ -201,7 +201,7 @@ export default function Bloghome2() {
               </div>
               <div className="card-footer text-muted">
                 โพสต์เมื่อวันที่ 8 มกราคม 2568 โดย
-                <a href="#">อรรถพล สุวรรณเจริญ</a>
+                <a href="#">อรรถพล สุวรรณเจริญ และ จักรพันธ์ หงษ์พงษ์</a>
               </div>
             </div>
           </div>
